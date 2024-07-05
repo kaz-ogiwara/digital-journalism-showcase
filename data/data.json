@@ -1,0 +1,392 @@
+[
+  {
+    "url": "http://www.asahi.com/olympics/sochi2014/lastdance/",
+    "title": "浅田真央 ラストダンス - 朝日新聞デジタル",
+    "image": "http://www.asahicom.jp/olympics/sochi2014/lastdance/img/lastdance_og.jpg",
+    "tags": "スクローリーテリング,イマーシブ"
+  },
+  {
+    "url": "https://toyokeizai.net/sp/visual/tko/temperature/",
+    "title": "東京の夏は着実に｢暑く･長く｣なっている",
+    "image": "https://toyokeizai.net/sp/visual/tko/temperature/eyecatch_1200_630.png",
+    "tags": "インフォグラフィック"
+  },
+  {
+    "url": "http://app.okinawatimes.co.jp/sengo70/index.html",
+    "title": "沖縄戦デジタルアーカイブ「戦世からぬ伝言」 | 沖縄タイムス＋プラス",
+    "image": "http://www.okinawatimes.co.jp/sengo70/og_image.png",
+    "tags": "写真"
+  },
+  {
+    "url": "https://iwate.mapping.jp/index_jp.html",
+    "title": "震災犠牲者の行動記録マップ「忘れない」",
+    "image": "https://lh3.googleusercontent.com/-yvW57oxAS3E/Vt6MVRSTVmI/AAAAAAAHWRo/CDMZolFvLt8/s1280-Ic42/screen%252520%2525281%252529.jpg.jpg",
+    "tags": "地図,3D,データベース,Cesium"
+  },
+  {
+    "url": "https://www.nishinippon.co.jp/item/n/319982/",
+    "title": "議会２０年、語られぬ地名　福岡市の２４ヵ所議事録分析　「天神」は発言最多１２９９回｜【西日本新聞me】",
+    "image": "https://www.nishinippon.co.jp/uploads/image/12329/sns_a7a5fc6d33.jpg",
+    "tags": "Tableau,データベース"
+  },
+  {
+    "url": "http://www.asahi.com/special/nagasakinote/",
+    "title": "ナガサキノート あの日、人々の足取り：朝日新聞デジタル",
+    "image": "https://www.asahicom.jp/special/nagasakinote/images/nagasaki_og.jpg",
+    "tags": "地図,3D,データベース"
+  },
+  {
+    "url": "https://www3.nhk.or.jp/news/special/timeline2011/",
+    "title": "原発事故88時間のタイムライン #あの日あなたは｜NHK",
+    "image": "https://www3.nhk.or.jp/news/special/timeline2011/assets/img/ogp2023.jpg",
+    "tags": "タイムライン"
+  },
+  {
+    "url": "https://toyokeizai.net/sp/visual/tko/landprices3/",
+    "title": "全国「公示地価」最新価格・過去比較3Dマップ",
+    "image": "https://toyokeizai.net/sp/visual/tko/landprices3/img/image_1200_630.png",
+    "tags": "地図,3D,Deck.GL"
+  },
+  {
+    "url": "https://www.sanyonews.jp/okayama_gou_fukyu",
+    "title": "被災から復興へ：山陽新聞デジタル｜さんデジ",
+    "image": "https://static.sanyonews.jp/image/builtin/icon_home02_1.png",
+    "tags": "画像スライダー"
+  },
+  {
+    "url": "https://www.google.com/maps/d/u/0/viewer?mid=1oH8_GLnAukcd5e3rNiNDu_n4vwU&ll=33.60305192669781%2C130.3853083415894&z=11",
+    "title": "福岡都市圏 議会の論点MAP",
+    "image": "https://www.google.com/maps/d/thumbnail?mid=1oH8_GLnAukcd5e3rNiNDu_n4vwU",
+    "tags": "地図,Google マイマップ"
+  },
+  {
+    "url": "https://www.iwate-np.co.jp/content/ishibumi/",
+    "title": "碑の記憶",
+    "image": "https://www.iwate-np.co.jp/content/ishibumi/img/ishibumiOG.png",
+    "tags": "VR,Google マイマップ"
+  },
+  {
+    "url": "https://www.asahi.com/senkyo/senkyo2019/special/politipedia/",
+    "title": "ポリティペディア（政治家データ分析）-2019参議院選挙（参院選）：朝日新聞デジタル",
+    "image": "https://www.asahicom.jp/senkyo/senkyo2019/special/images/politipedia/pp_1200x630.jpg",
+    "tags": "データベース"
+  },
+  {
+    "url": "https://toyokeizai.net/sp/visual/tko/electoralfund/",
+    "title": "選挙運動費用「余剰金」詳細データ",
+    "image": "https://toyokeizai.net/sp/visual/tko/electoralfund/img/image_1200_630.png",
+    "tags": "データベース,ダッシュボード"
+  },
+  {
+    "url": "https://vdata.nikkei.com/newsgraphics/kaigen-kyuden/",
+    "title": "「即位の礼」の大舞台　宮殿内部を解説：日本経済新聞",
+    "image": "https://vdata.nikkei.com/newsgraphics/kaigen-kyuden/img/OGimage.jpg?535511",
+    "tags": "Google Earth,3D"
+  },
+  {
+    "url": "https://www.asahi.co.jp/hanshin_awaji-1995/",
+    "title": "阪神淡路大震災 激震の記録1995 取材映像アーカイブ｜朝日放送グループホールディングス株式会社,朝日放送テレビ",
+    "image": "https://www.asahi.co.jp/hanshin_awaji-1995/img/og_02.png",
+    "tags": "地図,データベース"
+  },
+  {
+    "url": "https://vdata.nikkei.com/newsgraphics/coronavirus-world-map/",
+    "title": "新型コロナウイルス感染　世界マップ：日本経済新聞",
+    "image": "https://vdata.nikkei.com/newsgraphics/coronavirus-world-map/img/OGimage.jpg?78405",
+    "tags": "データベース"
+  },
+  {
+    "url": "https://www.google.com/maps/d/u/0/viewer?mid=1cz3SoUSHOz8sSRKTQx7Xvm4FfJwgzc_5&ll=34.39522533140672%2C132.45649892069798&z=13",
+    "title": "〔再現〕広島被爆状況図：時事ドットコム - Google My Maps",
+    "image": "https://www.google.com/maps/d/thumbnail?mid=1cz3SoUSHOz8sSRKTQx7Xvm4FfJwgzc_5",
+    "tags": "Google マイマップ"
+  },
+  {
+    "url": "https://specials.nishinippon.co.jp/tetsu_nakamura/",
+    "title": "中村哲医師特別サイト「一隅を照らす」-西日本新聞",
+    "image": "https://specials.nishinippon.co.jp/tetsu_nakamura/assets/img/base/ogimage.png",
+    "tags": "スクローリーテリング"
+  },
+  {
+    "url": "https://toyokeizai.net/sp/visual/tko/covid19/",
+    "title": "新型コロナウイルス　国内感染の状況 | 東洋経済オンライン | 社会をよくする経済ニュース",
+    "image": "https://toyokeizai.net/sp/visual/tko/covid19/img/image_1200_630.png",
+    "tags": "データベース,ダッシュボード"
+  },
+  {
+    "url": "https://vdata.nikkei.com/newsgraphics/chofu-depression/",
+    "title": "衛星データで分析　東京・調布の道路陥没事故：日本経済新聞",
+    "image": "https://vdata.nikkei.com/newsgraphics/chofu-depression/img/OGimage.jpg?311155",
+    "tags": "衛星データ"
+  },
+  {
+    "url": "https://earth.google.com/web/data=Mj8KPQo7CiExRDA2Ty1uaEpCOU0zVFJpUTFjYW4wSWpnblJQVHFOOXISFgoUMDNCNTkzRUY0MzE1ODc0MjQ0OEU?authuser=1",
+    "title": "オンラインで道ジュネーの旅",
+    "image": "",
+    "tags": "Google Earth"
+  },
+  {
+    "url": "https://www.nhk.or.jp/special/myanmar/",
+    "title": "ミャンマーで何が起きているのか -What's Happening in Myanmar?- NHKスペシャル",
+    "image": "https://www.nhk.or.jp/special/myanmar/assets/images/ogp.png",
+    "tags": "データベース"
+  },
+  {
+    "url": "https://smartnews-smri.github.io/hometown-tax-map/",
+    "title": "ふるさと納税「市区町村別」寄付・控除額マップ",
+    "image": "https://smartnews-smri.github.io/hometown-tax-map/img/image_1200_630.png",
+    "tags": "地図,色分け地図"
+  },
+  {
+    "url": "https://www.sakigake.jp/news/article/20211228AK0030/",
+    "title": "データで見る若者流出と少子化　止まらない「縮小ループ」｜秋田魁新報電子版",
+    "image": "https://www.sakigake.jp/images/news-entry/20211228ak0030_02_l.jpg",
+    "tags": "地図,アニメーション,Flourish"
+  },
+  {
+    "url": "https://www.shinmai.co.jp/feature/election/investigation/2021/shuinsen/",
+    "title": "第49回 衆議院議員総選挙 長野県内の情勢｜信濃毎日新聞×JX通信社",
+    "image": "https://www.shinmai.co.jp/feature/election/investigation/2021/ogp-shuin.jpg",
+    "tags": "データベース"
+  },
+  {
+    "url": "https://www.chugoku-np.co.jp/Edit/saikaihatsu-map/",
+    "title": "広島再開発マップ",
+    "image": "https://www.chugoku-np.co.jp/stp/Edit/saikaihatsu-map/img/saikaihatsumap-tw.jpg",
+    "tags": "地図,データベース"
+  },
+  {
+    "url": "https://www.chugoku-np.co.jp/Edit/schoolrules/",
+    "title": "みんなの校則データベース：広島県内公立高校版【2021年3月公開】｜中国新聞デジタル",
+    "image": "https://www.chugoku-np.co.jp/Edit/schoolrules/assets/img/paper_building.png",
+    "tags": "データベース"
+  },
+  {
+    "url": "https://www.asahi.com/senkyo/bunseki/chikakuhendo-graph/",
+    "title": "【2021年 衆院選】地殻変動　自公 vs. 非自公 | 朝日新聞デジタル | 衆議院議員選挙（2021年総選挙）特設サイト",
+    "image": "https://www.asahi.com/senkyo/bunseki/chikakuhendo-graph/images/banner/chikakuhendo-graph-ogp_1200x630.jpg",
+    "tags": "地図"
+  },
+  {
+    "url": "https://www.asahi.com/shinsai_fukkou/undersea/?iref=digisptop",
+    "title": "海からみた被災地　東日本大震災10年：朝日新聞デジタル",
+    "image": "https://www.asahicom.jp/shinsai_fukkou/undersea/images/ogp.jpg",
+    "tags": "スクローリーテリング"
+  },
+  {
+    "url": "https://www.yomiuri.co.jp/topics/20201029-OYT8T50098/",
+    "title": "あなたの街の「危険なバス停」…詳細地図リンク集 : 読売新聞",
+    "image": "https://www.yomiuri.co.jp/media/2020/12/20201228-OYT8I50017-1.jpg?type=ogp",
+    "tags": "地図,データベース,Google マイマップ"
+  },
+  {
+    "url": "https://vdata.nikkei.com/newsgraphics/shuin2021-party-poll-votes-map/",
+    "title": "政党の得票率、あなたの市町村は？：日本経済新聞",
+    "image": "https://vdata.nikkei.com/newsgraphics/shuin2021-party-poll-votes-map/img/OGimage.jpg?401477",
+    "tags": "地図"
+  },
+  {
+    "url": "https://www.hokkaido-np.co.jp/redevelopment_map",
+    "title": "札幌再開発マップ：北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg",
+    "tags": "地図,データベース"
+  },
+  {
+    "url": "https://www.ibc.co.jp/unosumai/",
+    "title": "鵜住居",
+    "image": "https://cdn.ibc.co.jp/unosumai/images/og.png",
+    "tags": "地図,Google Earth,データベース"
+  },
+  {
+    "url": "https://www3.nhk.or.jp/news/html/20220329/k10013555031000.html?fbclid=IwAR0wOPy3NCHDs_Fse2olRWEMZszGwO0xr0REY2iuEGdJvTEdpctGseLoRQw",
+    "title": "【独自分析】宇宙から見たウクライナ侵攻 | NHK | WEB特集 | ウクライナ情勢",
+    "image": "https://www3.nhk.or.jp/news/html/20220329/K10013555031_2203291915_0329191643_01_02.jpg",
+    "tags": "衛星データ,画像スライダー"
+  },
+  {
+    "url": "https://www3.nhk.or.jp/news/special/shinsai-portal/floodmap/",
+    "title": "高齢者施設「津波リスク」全国MAP - NHK",
+    "image": "https://www3.nhk.or.jp/news/special/shinsai-portal/floodmap/ogp.png",
+    "tags": "地図,データベース"
+  },
+  {
+    "url": "https://kahoku.news/miyaginojinji/",
+    "title": "みやぎの人事｜河北新報オンライン",
+    "image": "https://kahoku.news/miyaginojinji/img/picup_jinjiB_640x360.png",
+    "tags": "データベース"
+  },
+  {
+    "url": "https://www.sakigake.jp/special/maps/flood/",
+    "title": "秋田の洪水・土砂災害リスクマップ｜秋田魁新報電子版",
+    "image": "https://www.sakigake.jp/special/maps/flood/ogp.png",
+    "tags": "地図,データベース"
+  },
+  {
+    "url": "https://vdata.nikkei.com/newsgraphics/cities-and-climate-crisis/sea-level-rise-and-coastal-cities/",
+    "title": "都市と気候危機　広がる「ゼロメートル」の街：日本経済新聞",
+    "image": "https://vdata.nikkei.com/newsgraphics/cities-and-climate-crisis/sea-level-rise-and-coastal-cities/img/OGimage.jpg",
+    "tags": "地図,3D,スクローリーテリング,Mapbox"
+  },
+  {
+    "url": "https://static.chunichi.co.jp/chunichi/pages/feature/stats/judging_the_judges2022.html?s=09&utm_source=pocket_mylist",
+    "title": "中日新聞:審判を審判する2022",
+    "image": "https://static.chunichi.co.jp/chunichi/pages/feature/stats/images/thumb_judging_the_judges2022.jpg",
+    "tags": "スクローリーテリング"
+  },
+  {
+    "url": "https://www.asahi.com/special/jiko-kosaten/?iref=digisptop",
+    "title": "全国100万件の交通事故マップ-みえない交差点-プレミアムA：朝日新聞デジタル",
+    "image": "https://www.asahicom.jp/special/jiko-kosaten/bnr/jiko-kosaten_ogp_1200x630.jpg",
+    "tags": "地図,データベース"
+  },
+  {
+    "url": "https://www.yomiuri.co.jp/world/20220502-OYT1T50128/",
+    "title": "広範囲で火災発生のマリウポリ、衛星画像で専門家「住宅街でも激しい戦闘」 : 読売新聞",
+    "image": "https://www.yomiuri.co.jp/media/2022/05/20220504-OYT1I50068-1.jpg?type=ogp",
+    "tags": "衛星データ,Flourish,地図,アニメーション"
+  },
+  {
+    "url": "https://digital.kyodonews.jp/gender2024/",
+    "title": "都道府県版ジェンダー・ギャップ指数 ｜ あなたの地域の男女平等度は？",
+    "image": "https://digital.kyodonews.jp/gender2024/assets/ogp.png",
+    "tags": "データベース,GitHub"
+  },
+  {
+    "url": "https://vdata.nikkei.com/newsgraphics/regional-regeneration/elderly-living-alone-rate-map/#38386",
+    "title": "ふるさとクリック　地図で見る高齢者独居率：日本経済新聞",
+    "image": "https://vdata.nikkei.com/newsgraphics/regional-regeneration/elderly-living-alone-rate-map/img/OGimage.jpg?216922",
+    "tags": "地図,データベース"
+  },
+  {
+    "url": "https://vdata.nikkei.com/newsgraphics/military-takeover-one-year/",
+    "title": "やまぬ弾圧、消えた村 ミャンマー・クーデターから1年：日本経済新聞",
+    "image": "https://vdata.nikkei.com/newsgraphics/military-takeover-one-year/img/OGimage.jpg?836412",
+    "tags": "地図,Mapbox"
+  },
+  {
+    "url": "https://vdata.nikkei.com/newsgraphics/yield-curve/",
+    "title": "日銀とFRB、3Dイールドカーブが映す市場との攻防：日本経済新聞",
+    "image": "https://vdata.nikkei.com/newsgraphics/yield-curve/img/OGimage.jpg?678456",
+    "tags": "スクローリーテリング,3D,"
+  },
+  {
+    "url": "https://vdata.nikkei.com/newsgraphics/russia-fake-news/",
+    "title": "ロシア、口実捏造の軌跡：日本経済新聞",
+    "image": "https://vdata.nikkei.com/newsgraphics/russia-fake-news/img/OGimage.jpg?143720",
+    "tags": "スクローリーテリング,ネットワーク"
+  },
+  {
+    "url": "https://www.nhk.or.jp/archives/saigai/special/311/72hours/",
+    "title": "地震発生から72時間　東日本大震災復興10年年表｜NHK災害アーカイブス",
+    "image": "https://www.nhk.or.jp/archives/saigai/special/311/72hours/images/common/og_72.jpg",
+    "tags": "タイムライン"
+  },
+  {
+    "url": "https://kahoku.news/articles/20231104khn000044.html",
+    "title": "「昼は農地で餌を確保しています」越冬ガン類の行動、市民団体の調査で明らかに | 河北新報オンライン",
+    "image": "https://kahoku.news/images/2023/11/04/20231104khn000044/001_size7.jpg",
+    "tags": "Flourish,地図,アニメーション"
+  },
+  {
+    "url": "https://www.yomiuri.co.jp/world/20230710-OYT1T50262/",
+    "title": "アフリカ移民　欧州に大挙…マリ出身の若者は言った。「地元は危険だらけで仕事もない」　［世界深層］ : 読売新聞",
+    "image": "https://www.yomiuri.co.jp/media/2023/07/20230710-OYT1I50163-1.jpg",
+    "tags": "Flourish,地図,アニメーション"
+  },
+  {
+    "url": "https://www.at-s.com/news/article/shizuoka/1188301.html",
+    "title": "市町議４割超が高齢男性　静岡県内、性別・世代「バランス」遠く【ＮＥＸＴラボ×統一地方選】｜あなたの静岡新聞",
+    "image": "https://www.at-s.com/news/images/n119/1188301/labo0203.jpg",
+    "tags": "Flourish,ドットプロット"
+  },
+  {
+    "url": "https://www.yomiuri.co.jp/local/kyushu/news/20230727-OYTNT50083/2/",
+    "title": "日本の食料自給率は先進国で極端に低い水準…台湾有事で「日本人半数以上が餓死」分析も：地域ニュース : 読売新聞",
+    "image": "https://www.yomiuri.co.jp/media/2023/07/20230727-OYTNI50028-1.jpg",
+    "tags": "Flourish,ランキング,アニメーション"
+  },
+  {
+    "url": "https://www.yomiuri.co.jp/world/ukraine-reconstruction/",
+    "title": "ウクライナ　戦時下の復興　キーウ近郊からの報告 : 読売新聞",
+    "image": "https://www.yomiuri.co.jp/media/2022/10/ukraina-reconstruction-ogp-v3.jpg",
+    "tags": "3D,地図,Cesium,フォトグラメトリ"
+  },
+  {
+    "url": "https://vdata.nikkei.com/newsgraphics/conflict-israel-and-hamas/",
+    "title": "奇襲と報復、何が起きたか　イスラエル・ハマス衝突1週間：日本経済新聞",
+    "image": "https://vdata.nikkei.com/newsgraphics/conflict-israel-and-hamas/img/OGimage.jpg?88309",
+    "tags": "スクローリーテリング,地図,写真"
+  },
+  {
+    "url": "https://www.asahi.com/special/chihogikai-diversity/",
+    "title": "変わらない議会 変えるあなた｜全国1788地方議会調査：朝日新聞デジタル",
+    "image": "https://www.asahicom.jp/special/chihogikai-diversity/img/common/ogp.jpg",
+    "tags": "データベース,ダッシュボード"
+  },
+  {
+    "url": "https://www.chunichi.co.jp/feature_pages/syria2023",
+    "title": "記憶のかけらを集めて：中日新聞Web",
+    "image": "https://static.chunichi.co.jp/chunichi/pages/syria/img/ogp.jpg",
+    "tags": "3D,フォトグラメトリ"
+  },
+  {
+    "url": "https://www.shinmai.co.jp/news/article/SHEX2023112800003824",
+    "title": "御神渡り、2024年は出現せず「明けの海」宣言　諏訪の最低気温、半世紀のデータを「見える化」　24年データも追加｜信濃毎日新聞デジタル　信州・長野県のニュースサイト",
+    "image": "https://image.shinmai.co.jp/sh-image/specialarticle/SHEX2023112800003824/IMG00_M.jpg",
+    "tags": "Flourish,ヒートマップ"
+  },
+  {
+    "url": "https://vdata.nikkei.com/newsgraphics/teardown-vision-pro/",
+    "title": "Vision Pro分解　部品の4割は日本製：日本経済新聞",
+    "image": "https://vdata.nikkei.com/newsgraphics/teardown-vision-pro/img/OGimage.jpg?253392",
+    "tags": "3D,スクローリーテリング"
+  },
+  {
+    "url": "https://www.asahi.com/shinsai_fukkou/population/",
+    "title": "被災地と少子化　データから見る東日本大震災：朝日新聞デジタル",
+    "image": "https://www.asahicom.jp/shinsai_fukkou/population/assets/banner/shinsai2023-ogp_1200x630.jpg",
+    "tags": "地図,3D"
+  },
+  {
+    "url": "https://www3.nhk.or.jp/news/tokushu/20240422/suidomap/#4.33/36.43/135",
+    "title": "全国 水道危機マップ",
+    "image": "https://www3.nhk.or.jp/news/img/ogp_news_top_1280px.jpg",
+    "tags": "地図,色分け地図"
+  },
+  {
+    "url": "https://vdata.nikkei.com/newsgraphics/haneda-runway-collision/",
+    "title": "JAL機炎上、そのとき何が　検証・羽田空港衝突事故：日本経済新聞",
+    "image": "https://vdata.nikkei.com/newsgraphics/haneda-runway-collision/img/OGimage.jpg?611794",
+    "tags": "スクローリーテリング,3D"
+  },
+  {
+    "url": "https://vdata.nikkei.com/newsgraphics/seasonal-viz/cherry-blossom-map/",
+    "title": "桜前線を「400度の法則」で追う　今年の開花日は？：日本経済新聞",
+    "image": "https://vdata.nikkei.com/newsgraphics/seasonal-viz/cherry-blossom-map/img/OGimage.jpg?183880",
+    "tags": "地図,アニメーション"
+  },
+  {
+    "url": "https://storymaps.arcgis.com/stories/f9dc1fce8ce3421d92b97a8bf2e697b1",
+    "title": "令和６年能登半島地震被災状況マップ",
+    "image": "https://cdn.arcgis.com/sharing/rest/content/items/f9dc1fce8ce3421d92b97a8bf2e697b1/resources/qxMgyNirGyWJqJjjqwaZy.jpeg?w=400",
+    "tags": "スクローリーテリング,ArcGIS,地図,写真"
+  },
+  {
+    "url": "https://vdata.nikkei.com/newsgraphics/ai-anime/",
+    "title": "氾濫する生成AIアニメ 9万枚調査で見えた権利侵害：日本経済新聞",
+    "image": "https://vdata.nikkei.com/newsgraphics/ai-anime/img/OGimage.jpg",
+    "tags": "スクローリーテリング,ツリーマップ"
+  },
+  {
+    "url": "https://www.asahi.com/special/population2024/",
+    "title": "「消滅可能性自治体」マップと一覧　～2050年の日本の姿～：朝日新聞デジタル",
+    "image": "https://www.asahicom.jp/special/population2024/list/assets/images/banner/population2024_ogp_1200_630.jpg?=2",
+    "tags": "地図,色分け地図"
+  },
+  {
+    "url": "https://www.chunichi.co.jp/feature_pages/noto_liquefaction_phenomenon",
+    "title": "あの時、まちは傾いた　～揺れた１分間、内灘町を襲った液状化現象：中日新聞Web",
+    "image": "https://static.chunichi.co.jp/chunichi/images/freepages/hokuriku_pages/r6_noto_jishin/DigitalFeatureArticle/uchinada-1200px.jpg",
+    "tags": "地図,スクローリーテリング,写真"
+  }
+]
