@@ -32,23 +32,6 @@ const init = () => {
         const html = '<div class="tag selected">' + tag + '<span>' + sortedGroups[tag] + '</span></div>';
         $("#section-tags").find(".tags-content").append(html);
       }
-
-      // タグのイベントをバインド
-      $("#section-tags").find(".tag").on("click", function(){
-        if ($(this).hasClass("selected")) {
-          $(this).removeClass("selected");
-        } else {
-          $(this).addClass("selected");
-        }
-
-        // クリックイベントを記録する
-        const t = getTagText($(this));
-        console.log(t);
-        logClickEvent("tag", t);
-
-        // 最後にプロジェクトを表示する
-        showProjects();
-      });
     }
 
     // 非同期で
@@ -158,7 +141,7 @@ const init = () => {
   // イベントのバインド
   const bindEvents = () => {
 
-    // 「タグ一覧」をクリックしたとき
+    // タグ欄のタイトル部分をクリックしたとき
     $("#section-tags").find(".tags-title").on("click", function(){
       $section = $(this).closest("#section-tags");
       if ($section.hasClass("open")) {
@@ -171,12 +154,37 @@ const init = () => {
       logClickEvent("tags", "expand");
     });
 
+    // タグをクリックしたとき
+    $("#section-tags").find(".tags-content").on("click", ".tag", function(){
+      if ($(this).hasClass("selected")) {
+        $(this).removeClass("selected");
+      } else {
+        $(this).addClass("selected");
+      }
+
+      // 「すべてのタグを選択する」の場合
+      if ($(this).hasClass("toggle-all")) {
+        if ($(this).hasClass("selected")) {
+          $(this).siblings(".tag").addClass("selected");
+        } else {
+          $(this).siblings(".tag").removeClass("selected");
+        }
+      }
+
+      // クリックイベントを記録する
+      const t = getTagText($(this));
+      logClickEvent("tag", t);
+
+      // 最後にプロジェクトを表示する
+      showProjects();
+    });
+
+
     // プロジェクトのリンクをクリックしたとき
     $("#section-projects").on("click", "a", function(){
       const href = $(this).attr("href");
       logClickEvent("project", href);
     });
-
   }
 
   updateCopyrightYear();
