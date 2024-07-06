@@ -54,7 +54,7 @@ const init = () => {
       });
     }
 
-    const url = "./data/data.json";
+    const url = "https://script.googleusercontent.com/macros/echo?user_content_key=QnWtqNlui0vgJs7JF23lFNCPywKbBwVGeBPGCc2ldFnZc9BYSEDRtXdxk2rAGjQuJ61cGz8WCqJ2Sxc9IeQEmU-c0aLBEqUDm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnOvMOy-_5C22Y-TUWaxHMuwIK_99udGDChaQgGEM7LPWxvsmh4-_FnbDuJHGdrUFeGEf3yrLJ6xNujOpHfeoJiCy0Y_J-peiRQ&lib=MgneDKDkNNagOxlDajvYLPdmDaCZL1-Ot";
     const $projects = $("#section-projects");
 
     // JSONファイルを読み込む
