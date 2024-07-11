@@ -88,6 +88,49 @@ body {
     }
   }
 
+  #section-social {
+    max-width: 320px;
+    margin: 0 auto;
+    margin-top: 64px;
+    margin-bottom: 64px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+
+    a {
+      display: block;
+      margin: 0 auto;
+      width: 44px;
+      height: 44px;
+      border-radius: 22px;
+      border: 1px solid #fefefe;
+      background-color: #fefefe;
+      background-position: center center;
+      background-size: cover;
+      background-repeat: no-repeat;
+
+      &.twitter {
+        background-color: #000;
+        background-size: 50%;
+        background-image: url(../img/social-icon-twitter.png);
+      }
+
+      &.facebook {
+        background-size: 120%;
+        background-image: url(../img/social-icon-facebook.png);
+      }
+
+      &.linkedin {
+        background-image: url(../img/social-icon-linkedin.svg);
+      }
+
+      &.github {
+        background-image: url(../img/social-icon-github.png);
+      }
+    }
+  }
+
+
+
   #section-tags {
     width: calc(100% - 16px);
     max-width: 960px;
@@ -279,48 +322,6 @@ body {
     max-width: 720px;
     margin: 0 auto;
     margin-top: 32px;
-
-    .social-icons {
-      max-width: 360px;
-      margin: 0 auto;
-      margin-top: 64px;
-      margin-bottom: 64px;
-      display: grid;
-      grid-template-columns: 1fr 1fr 1fr 1fr;
-
-      a {
-        display: block;
-        margin: 0 auto;
-        width: 44px;
-        height: 44px;
-        border-radius: 22px;
-        border: 1px solid #fefefe;
-        background-color: #fefefe;
-        background-position: center center;
-        background-size: cover;
-        background-repeat: no-repeat;
-
-        &.twitter {
-          background-color: #000;
-          background-size: 50%;
-          background-image: url(../img/social-icon-twitter.png);
-        }
-
-        &.facebook {
-          background-size: 130%;
-          background-image: url(../img/social-icon-facebook.png);
-        }
-
-        &.github {
-          background-image: url(../img/social-icon-github.png);
-        }
-
-        &.link {
-          background-image: url(../img/social-icon-github.png);
-        }
-      }
-    }
-  
 
     hr {
       border: none;
