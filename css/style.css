@@ -259,10 +259,6 @@ body a {
   font-size: 0.7rem;
   color: #666;
 }
-#container #section-projects .project .info .tags .tag:hover {
-  cursor: pointer;
-  background-color: #f0faff;
-}
 #container #section-projects .project.show {
   display: block;
 }
