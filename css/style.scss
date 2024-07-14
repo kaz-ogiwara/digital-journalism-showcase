@@ -35,7 +35,7 @@ body {
 
     background-image: url(../img/loading.svg);
     background-size: 120px;
-    background-position: center center;
+    background-position: center calc(50% - 16px);
     background-repeat: no-repeat;
 
     p {
