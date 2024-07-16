@@ -95,9 +95,11 @@ body a {
 }
 #container #section-social a.twitter {
   background-color: #000;
+  background-size: 50%;
   background-image: url(../img/social-icon-twitter.png);
 }
 #container #section-social a.facebook {
+  background-size: 120%;
   background-image: url(../img/social-icon-facebook.png);
 }
 #container #section-social a.linkedin {
